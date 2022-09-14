@@ -1,0 +1,5 @@
+# Emilie Mancera
+# 404
+
+chaine1 = input("Quel est votre texte?") # On demande a lutilisateur son texte
+word_count = print("Nombre de caractères: " + str(len(chaine1.split(" ")))) # On invente une fonction pour compter le nombre de mots
